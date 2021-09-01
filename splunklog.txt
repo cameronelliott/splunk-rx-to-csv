@@ -1,0 +1,66 @@
+1630533553.089622,docker-desktop,stdout,658dc35e1aaa,
+1630533553.089625,docker-desktop,stdout,658dc35e1aaa,Hello from Docker!
+1630533553.089625,docker-desktop,stdout,658dc35e1aaa,This message shows that your installation appears to be working correctly.
+1630533553.089626,docker-desktop,stdout,658dc35e1aaa,
+1630533553.089626,docker-desktop,stdout,658dc35e1aaa,To generate this message, Docker took the following steps:
+1630533553.089626,docker-desktop,stdout,658dc35e1aaa, 1. The Docker client contacted the Docker daemon.
+1630533553.089627,docker-desktop,stdout,658dc35e1aaa, 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+1630533553.089627,docker-desktop,stdout,658dc35e1aaa,    (amd64)
+1630533553.089628,docker-desktop,stdout,658dc35e1aaa, 3. The Docker daemon created a new container from that image which runs the
+1630533553.089629,docker-desktop,stdout,658dc35e1aaa,    executable that produces the output you are currently reading.
+1630533553.089629,docker-desktop,stdout,658dc35e1aaa, 4. The Docker daemon streamed that output to the Docker client, which sent it
+1630533553.089629,docker-desktop,stdout,658dc35e1aaa,    to your terminal.
+1630533553.089630,docker-desktop,stdout,658dc35e1aaa,
+1630533553.089630,docker-desktop,stdout,658dc35e1aaa,To try something more ambitious, you can run an Ubuntu container with:
+1630533553.089631,docker-desktop,stdout,658dc35e1aaa, $ docker run -it ubuntu bash
+1630533553.089631,docker-desktop,stdout,658dc35e1aaa,
+1630533553.089632,docker-desktop,stdout,658dc35e1aaa,Share images, automate workflows, and more with a free Docker ID:
+1630533553.089633,docker-desktop,stdout,658dc35e1aaa, https://hub.docker.com/
+1630533553.089633,docker-desktop,stdout,658dc35e1aaa,
+1630533553.089633,docker-desktop,stdout,658dc35e1aaa,For more examples and ideas, visit:
+1630533553.089633,docker-desktop,stdout,658dc35e1aaa, https://docs.docker.com/get-started/
+1630533553.089634,docker-desktop,stdout,658dc35e1aaa,
+1630533555.977182,docker-desktop,stdout,2f49d0826162,
+1630533555.977185,docker-desktop,stdout,2f49d0826162,Hello from Docker!
+1630533555.977185,docker-desktop,stdout,2f49d0826162,This message shows that your installation appears to be working correctly.
+1630533555.977185,docker-desktop,stdout,2f49d0826162,
+1630533555.977185,docker-desktop,stdout,2f49d0826162,To generate this message, Docker took the following steps:
+1630533555.977186,docker-desktop,stdout,2f49d0826162, 1. The Docker client contacted the Docker daemon.
+1630533555.977186,docker-desktop,stdout,2f49d0826162, 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+1630533555.977186,docker-desktop,stdout,2f49d0826162,    (amd64)
+1630533555.977187,docker-desktop,stdout,2f49d0826162, 3. The Docker daemon created a new container from that image which runs the
+1630533555.977187,docker-desktop,stdout,2f49d0826162,    executable that produces the output you are currently reading.
+1630533555.977187,docker-desktop,stdout,2f49d0826162, 4. The Docker daemon streamed that output to the Docker client, which sent it
+1630533555.977187,docker-desktop,stdout,2f49d0826162,    to your terminal.
+1630533555.977188,docker-desktop,stdout,2f49d0826162,
+1630533555.977188,docker-desktop,stdout,2f49d0826162,To try something more ambitious, you can run an Ubuntu container with:
+1630533555.977188,docker-desktop,stdout,2f49d0826162, $ docker run -it ubuntu bash
+1630533555.977189,docker-desktop,stdout,2f49d0826162,
+1630533555.977189,docker-desktop,stdout,2f49d0826162,Share images, automate workflows, and more with a free Docker ID:
+1630533555.977189,docker-desktop,stdout,2f49d0826162, https://hub.docker.com/
+1630533555.977189,docker-desktop,stdout,2f49d0826162,
+1630533555.977189,docker-desktop,stdout,2f49d0826162,For more examples and ideas, visit:
+1630533555.977190,docker-desktop,stdout,2f49d0826162, https://docs.docker.com/get-started/
+1630533555.977191,docker-desktop,stdout,2f49d0826162,
+1630533560.321751,docker-desktop,stdout,a437d105aba7,
+1630533560.321755,docker-desktop,stdout,a437d105aba7,Hello from Docker!
+1630533560.321755,docker-desktop,stdout,a437d105aba7,This message shows that your installation appears to be working correctly.
+1630533560.321755,docker-desktop,stdout,a437d105aba7,
+1630533560.321756,docker-desktop,stdout,a437d105aba7,To generate this message, Docker took the following steps:
+1630533560.321757,docker-desktop,stdout,a437d105aba7, 1. The Docker client contacted the Docker daemon.
+1630533560.321757,docker-desktop,stdout,a437d105aba7, 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+1630533560.321758,docker-desktop,stdout,a437d105aba7,    (amd64)
+1630533560.321758,docker-desktop,stdout,a437d105aba7, 3. The Docker daemon created a new container from that image which runs the
+1630533560.321758,docker-desktop,stdout,a437d105aba7,    executable that produces the output you are currently reading.
+1630533560.321759,docker-desktop,stdout,a437d105aba7, 4. The Docker daemon streamed that output to the Docker client, which sent it
+1630533560.321759,docker-desktop,stdout,a437d105aba7,    to your terminal.
+1630533560.321759,docker-desktop,stdout,a437d105aba7,
+1630533560.321760,docker-desktop,stdout,a437d105aba7,To try something more ambitious, you can run an Ubuntu container with:
+1630533560.321760,docker-desktop,stdout,a437d105aba7, $ docker run -it ubuntu bash
+1630533560.321760,docker-desktop,stdout,a437d105aba7,
+1630533560.321760,docker-desktop,stdout,a437d105aba7,Share images, automate workflows, and more with a free Docker ID:
+1630533560.321760,docker-desktop,stdout,a437d105aba7, https://hub.docker.com/
+1630533560.321761,docker-desktop,stdout,a437d105aba7,
+1630533560.321761,docker-desktop,stdout,a437d105aba7,For more examples and ideas, visit:
+1630533560.321761,docker-desktop,stdout,a437d105aba7, https://docs.docker.com/get-started/
+1630533560.321762,docker-desktop,stdout,a437d105aba7,

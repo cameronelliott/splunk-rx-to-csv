@@ -1,0 +1,177 @@
+{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902264",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "Hello from Docker!",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902291",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "This message shows that your installation appears to be working correctly.",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902293",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902293",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "To generate this message, Docker took the following steps:",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902293",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " 1. The Docker client contacted the Docker daemon.",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902308",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " 2. The Docker daemon pulled the \"hello-world\" image from the Docker Hub.",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902308",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "    (amd64)",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902309",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " 3. The Docker daemon created a new container from that image which runs the",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902309",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "    executable that produces the output you are currently reading.",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902309",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " 4. The Docker daemon streamed that output to the Docker client, which sent it",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902310",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "    to your terminal.",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902310",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902310",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "To try something more ambitious, you can run an Ubuntu container with:",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902311",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " $ docker run -it ubuntu bash",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902312",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902312",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "Share images, automate workflows, and more with a free Docker ID:",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902313",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " https://hub.docker.com/",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902313",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902313",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "For more examples and ideas, visit:",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902313",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": " https://docs.docker.com/get-started/",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902314",
+    "host": "docker-desktop"
+}{
+    "event": {
+        "line": "",
+        "source": "stdout",
+        "tag": "da8b33636b41"
+    },
+    "time": "1630529225.902314",
+    "host": "docker-desktop"
+}
